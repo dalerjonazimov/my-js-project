@@ -31,3 +31,4 @@ function personInfo(fName,lName,age,location,isWorking){
 personInfo('Ahmet','Bayram',18,'LA',true);//"Ahmet , Bayram , 18 , LA, true"
 personInfo('Ahmet','Bayram',18);//"Ahmet , Bayram , 18 , undefined, undefined"
 personInfo('Ahmet','Bayram','LA',true);//"Ahmet , Bayram , LA , true, undefined"
+
