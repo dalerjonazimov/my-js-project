@@ -31,7 +31,7 @@ const personInfo ={
   address : {
     street : '5th Ave',
     city   : 'NYC',
-    state  : 'NY'
+    state  : 'NY',
   },
   hobbies : ['soccer','fishing','hunting'],
   salary  : function() {
