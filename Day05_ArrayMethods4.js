@@ -24,7 +24,9 @@ console.log(sliceDrinks); // ["tea"]
 
 //10. join -> returns a string. we can combine the items of the array using special character
 //water - coke - fanta - tea
+//drink array : ['water', 'coke', 'fanta','tea']
 const joinedItems=drinks.join(' - ')
+console.log(typeof(joinedItems));//string"
 console.log(joinedItems);//"water - coke - fanta - tea"
 
 const joinedItems1=drinks.join('')
