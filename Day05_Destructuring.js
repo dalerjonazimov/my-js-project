@@ -73,3 +73,4 @@ console.log(userLocation);//"LA"
 console.log(userEmail);//"tim@yahoo.com"
 
 //Note: during array destructuring, we can give any name we want.
+

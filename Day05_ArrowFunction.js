@@ -89,3 +89,6 @@ console.log(arrow3());//138
 var arrow4=()=>x+y+100;
 console.log(arrow4());//138
 //DONE!!!
+function arrow4(){
+  return x+y+100;
+}
